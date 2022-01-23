@@ -5,6 +5,10 @@ set -e
 
 git pull origin
 
+## 提交 src 中的修改
+git add src
+git commit -m 'inspiration'
+
 ## 生成静态文件
 npm run build
 
