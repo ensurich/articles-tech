@@ -1,1 +1,0 @@
-const e={key:"v-caf2db12",path:"/mac/cli/ruby.html",title:"Ruby",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"RubyGems",slug:"rubygems",children:[]},{level:2,title:"rbenv",slug:"rbenv",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"mac/cli/ruby.md"};export{e as data};

@@ -1,0 +1,1 @@
+const t={key:"v-c7b7d57a",path:"/mac/cli/china-mirrors.html",title:"\u56FD\u5185\u955C\u50CF",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1642915225e3,contributors:[{name:"\u51E1\u79BB",email:"jthivan@gmail.com",commits:1}]},filePathRelative:"mac/cli/china-mirrors.md"};export{t as data};
