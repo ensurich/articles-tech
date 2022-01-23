@@ -1,0 +1,1 @@
+const e={key:"v-594774e1",path:"/todo/web-interview.html",title:"\u524D\u7AEF\u9762\u8BD5",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"JS",slug:"js",children:[]},{level:2,title:"TS",slug:"ts",children:[]},{level:2,title:"CSS",slug:"css",children:[]}],git:{updatedTime:null,contributors:[]},filePathRelative:"todo/web-interview.md"};export{e as data};
