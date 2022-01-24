@@ -16,7 +16,11 @@ module.exports = {
                 '/todo/android-interview.md',
                 {
                     text: 'Web 面试',
-                    link: '/todo/web-interview.md'
+                    children: [
+                        '/todo/web-interview/',
+                        '/todo/web-interview/js',
+                        '/todo/web-interview/html',
+                    ]
                 }
             ]
         },
