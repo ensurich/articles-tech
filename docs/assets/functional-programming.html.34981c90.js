@@ -1,0 +1,1 @@
+const t={key:"v-c9036e68",path:"/thinking/paradigm/functional-programming.html",title:"\u51FD\u6570\u5F0F\u7F16\u7A0B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:1643039479e3,contributors:[{name:"\u51E1\u79BB",email:"jthivan@gmail.com",commits:1}]},filePathRelative:"thinking/paradigm/functional-programming.md"};export{t as data};

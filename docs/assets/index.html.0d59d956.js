@@ -1,1 +1,0 @@
-import{o as e,c as t,a as c,b as r}from"./app.49680cab.js";import{_ as s}from"./plugin-vue_export-helper.21dcd24c.js";const a={},o={id:"typescript",tabindex:"-1"},_=c("a",{class:"header-anchor",href:"#typescript","aria-hidden":"true"},"#",-1),n=r(" TypeScript"),d=[_,n];function i(p,h){return e(),t("h1",o,d)}var m=s(a,[["render",i]]);export{m as default};
