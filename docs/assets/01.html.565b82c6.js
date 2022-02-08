@@ -1,0 +1,1 @@
+const e={key:"v-3b9c013e",path:"/todo/web-interview/01.html",title:"\u4E00\u9762",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{updatedTime:16443342e5,contributors:[{name:"Tenghui Jiang",email:"jthivan@gmail.com",commits:1}]},filePathRelative:"todo/web-interview/01.md"};export{e as data};
