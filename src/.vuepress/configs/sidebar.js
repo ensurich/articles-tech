@@ -20,6 +20,7 @@ module.exports = {
                         '/todo/web-interview/',
                         '/todo/web-interview/js',
                         '/todo/web-interview/html',
+                        '/todo/web-interview/02',
                     ]
                 }
             ]
