@@ -2,7 +2,7 @@
 const { navbar, sidebar }   = require('./configs');
 
 module.exports = {
-    base: '/articles-tech/',
+    base: '/tech/',
     title: '凡离',
     description: '还没想好',
     host: '0.0.0.0',
