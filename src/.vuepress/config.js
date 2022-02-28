@@ -2,7 +2,7 @@
 const { navbar, sidebar }   = require('./configs');
 
 module.exports = {
-    base: '/tech/',
+    base: '/articles-tech/',
     title: '凡离',
     description: '还没想好',
     host: '0.0.0.0',
@@ -12,11 +12,11 @@ module.exports = {
     theme: '@vuepress/theme-default',
     themeConfig: {
         logo: '/images/logo.png',
-        repo: 'ensurich/tech/',
+        repo: 'ensurich/articles-tech/',
         contributors: true,
         editLink: true,
         lastUpdated: true,
-        docsRepo: 'https://github.com/ensurich/tech',
+        docsRepo: 'https://github.com/ensurich/articles-tech',
         docsBranch: 'master',
         docsDir: 'src',
         editLinkPattern: ':repo/edit/:branch/:path',
