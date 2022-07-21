@@ -6,8 +6,8 @@ sourcetree
 webstorm
 
 | Tools                                         | Description              |
-| --------------------------------------------- | ------------------------ |
-| [iterm](https://iterm2.com/)                  | 使用 iterm 代替 terminal |
+|-----------------------------------------------| ------------------------ |
+| [iterm2](https://iterm2.com/)                 | 使用 iterm 代替 terminal |
 | [atom](https://atom.io/)                      | 文本工具                 |
 | [ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) | zsh工具                  |
 
