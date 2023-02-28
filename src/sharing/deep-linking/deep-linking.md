@@ -175,12 +175,20 @@ Deeplink有个局限，就是只能在已安装的APP之间进行跳转。如果
 - [AppsFlyer Guides](https://www.appsflyer.com/resources/guides/deep-linking-101/)
 
 
-
 [Android6 0新特性 App Links](https://juejin.cn/post/6844903527794343950)
 
+[Android 中Scheme协议的使用详解](https://juejin.cn/post/7080492841872392229)
 
-示例
-- [Android 中Scheme协议的使用详解](https://juejin.cn/post/7080492841872392229)
+[深度链接(Deeplink)的实现与使用](https://zhuanlan.zhihu.com/p/394363004)
+[Android 上玩转 DeepLink：如何最大程度的向 App 引流](https://juejin.cn/post/6844903620287135752)
+[Deferred Deeplink（延展的深度链接）](https://blog.csdn.net/zzhongcy/article/details/118602343)
+[Android AppLinks 接入](https://juejin.cn/post/6844903494760349703)
+[[译]Android6 0新特性 App Links](https://juejin.cn/post/6844903527794343950)
+[Android Deep Links & Android App Links](https://juejin.cn/post/6844903544575770638)
+[Android Studio 2.3 特性：生成 Android App Links](https://juejin.cn/post/6844903466180034573#heading-6)
+[App深度链接与延迟深度链接](https://www.biaodianfu.com/deep-link-deferred-deeplink.html)
+[深度链接(deeplink)唤醒直达App指定内页](https://cloud.tencent.com/developer/article/1855859)
+[Android Deep Link 深度链接，看看你在第几层？](https://juejin.cn/post/7073731278612201509)
 
 
 ## 其他
@@ -192,15 +200,6 @@ weixin://dl/scan
 weixin://dl/settings
 weixin://dl/profile
 weixin://dl/general
-
-
-
-
-
-
-
-
-
 
 微信 Schema
 weixin://dl/moments
